@@ -1,0 +1,1 @@
+![GitHub Logo](https://github.com/huzaifakamran/multimodal-by-openai/blob/master/Capture.PNG)
